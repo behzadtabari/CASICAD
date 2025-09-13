@@ -8,8 +8,9 @@ If it helps others along the way, even better!
 
 ## What’s inside
 - Practical implementations of classic curve and surface algorithms  
-- Visualizations with Python and Matplotlib  
-- Step-by-step experiments with Bernstein polynomials, Bézier curves, and more  
+- Visualizations with Python and Matplotlib and OCC
+- Step-by-step experiments with Bernstein polynomials, Bézier curves, NURBS and more  
+- It is still under development!
 
 ---
 
