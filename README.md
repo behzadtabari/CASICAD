@@ -6,14 +6,14 @@ If it helps others along the way, even better!
 
 ---
 
-## ✨ What’s inside
+## What’s inside
 - Practical implementations of classic curve and surface algorithms  
 - Visualizations with Python and Matplotlib  
 - Step-by-step experiments with Bernstein polynomials, Bézier curves, and more  
 
 ---
 
-## 🚀 Motivation
+## Motivation
 This repo is my personal playground for learning and experimenting.  
 I want to take the beautiful theory from Farin’s book and make it *hands-on* with code.  
 
