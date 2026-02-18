@@ -1,0 +1,5 @@
+*.npz
+*.pt
+*.pth
+# specific scripts
+bezier_variable_k_full.py
