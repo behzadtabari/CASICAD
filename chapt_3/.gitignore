@@ -1,9 +1,0 @@
-# ignore specific python files
-chapt_3/bezier_variable_k_full.py
-chapt_3/make_bezier_dataset.py
-
-# ignore datasets
-dataset_bezier_varK_D2_N48_M8.npz
-
-# ignore pytorch models
-bezier_varK_model.pt
