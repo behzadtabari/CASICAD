@@ -85,7 +85,26 @@ Since derivative computation is fundamental in:
 
 ensuring efficiency now supports robust performance in more advanced geometric pipelines later.
 
+
 ---
+## Cusp Regularization - Exercise 4.1
+Consider the cubic Bézier curve with planar control points:
 
+b0 = ( 1, 0 )
+b1 = (−1, 1 )
+b2 = ( 1, 1 )
+b3 = (−1, 0 )
 
+At t = 1/2, this curve has a cusp: its first derivative vanishes and it shows a sharp corner.
+Now perturb the x-coordinates of b1 and b2 by opposite amounts (keeping symmetry).
+Discuss what happens to the curve.
+
+I thought giving it a cool name, Cusp Detox, or Cusp removal, then I thought that how this could be similar to regularization techinques, like enforcing some Lipschitz bounds for the derivates, here we can either smoothe the curve or create a loop outward.  
+Run the following script to reproduce the experiment:
+
+```bash
+python exc1.py
+```
+
+---
 
