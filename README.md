@@ -1,7 +1,7 @@
 # CASICAD
 
 A hobby project to implement and visualize concepts from *Curves and Surfaces for CAGD* by Gerald Farin.  
-The goal is not tied to a specific application — it’s driven by pure joy of exploring geometry, CAD, and math in practice.  
+The goal is not tied to a specific application, it’s driven by pure joy of exploring geometry, CAD, and math in practice.  
 If it helps others along the way, even better!
 
 ---
