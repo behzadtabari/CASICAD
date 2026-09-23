@@ -3,4 +3,4 @@
 *.pth
 # specific scripts
 bezier_variable_k_full.py
-.idea
+.idea/
